@@ -1,6 +1,17 @@
 Get setup with android environemnets and eclipse plugins:
 http://developer.android.com/sdk/installing.html
 
+Git:
+To get your initial repository set up:
+git clone git@github.com:HuntersCreekStudios/GMail-Events-to-Facebook-Events.git
+<someLocalDirectory>
+A basic day-to-day workflow would look something like:
+1) Make some changes, when they are tested and ready to commit
+2) 'git pull' to pull down any changes from github and merge them into your local repo
+3) 'git status' to see what files you have changed
+4) 'git add <file1> <file2> ...' to tell git what you want to commit
+5) 'git commit -m "<commit message>" ' to commit the changes to your local repo
+6) 'git push' to push your changes up to github
 A git tutorial that looks pretty good:
 http://www.kernel.org/pub/software/scm/git/docs/gittutorial.html
 
