@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="hello">Hello World, GMail2Facebook!</string>
+    <string name="hello">Here you will be able to select the GMail event that you want to export.</string>
     <string name="app_name">GMail2Facebook</string>
+    <string name="export_button">Export to Facebook</string>
+    <string name="exported">Event has been exported to Facebook!</string>
 </resources>
