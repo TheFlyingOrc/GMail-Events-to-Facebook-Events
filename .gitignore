@@ -1,0 +1,3 @@
+# ignore generated files, do not check them into git
+bin
+gen
